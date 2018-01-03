@@ -1,0 +1,12 @@
+c:\users\alper.ebicoglu\documents\visual studio 2017\Projects\FacebookAuth\FacebookAuth\bin\Debug\netcoreapp2.0\FacebookAuth.deps.json
+c:\users\alper.ebicoglu\documents\visual studio 2017\Projects\FacebookAuth\FacebookAuth\bin\Debug\netcoreapp2.0\FacebookAuth.runtimeconfig.json
+c:\users\alper.ebicoglu\documents\visual studio 2017\Projects\FacebookAuth\FacebookAuth\bin\Debug\netcoreapp2.0\FacebookAuth.runtimeconfig.dev.json
+c:\users\alper.ebicoglu\documents\visual studio 2017\Projects\FacebookAuth\FacebookAuth\bin\Debug\netcoreapp2.0\FacebookAuth.dll
+c:\users\alper.ebicoglu\documents\visual studio 2017\Projects\FacebookAuth\FacebookAuth\bin\Debug\netcoreapp2.0\FacebookAuth.pdb
+c:\users\alper.ebicoglu\documents\visual studio 2017\Projects\FacebookAuth\FacebookAuth\obj\Debug\netcoreapp2.0\FacebookAuth.csprojResolveAssemblyReference.cache
+c:\users\alper.ebicoglu\documents\visual studio 2017\Projects\FacebookAuth\FacebookAuth\obj\Debug\netcoreapp2.0\FacebookAuth.csproj.CoreCompileInputs.cache
+c:\users\alper.ebicoglu\documents\visual studio 2017\Projects\FacebookAuth\FacebookAuth\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\alper.ebicoglu\documents\visual studio 2017\Projects\FacebookAuth\FacebookAuth\obj\Debug\netcoreapp2.0\FacebookAuth.AssemblyInfoInputs.cache
+c:\users\alper.ebicoglu\documents\visual studio 2017\Projects\FacebookAuth\FacebookAuth\obj\Debug\netcoreapp2.0\FacebookAuth.AssemblyInfo.cs
+c:\users\alper.ebicoglu\documents\visual studio 2017\Projects\FacebookAuth\FacebookAuth\obj\Debug\netcoreapp2.0\FacebookAuth.dll
+c:\users\alper.ebicoglu\documents\visual studio 2017\Projects\FacebookAuth\FacebookAuth\obj\Debug\netcoreapp2.0\FacebookAuth.pdb
